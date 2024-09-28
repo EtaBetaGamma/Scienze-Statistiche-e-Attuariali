@@ -5,3 +5,4 @@ In questa repositary troverai appunti ed esercitazioni del corso di laurea di Sc
 La repositary è divisa tra triennale e magistrale e a sua volta nei vari corsi.
 
 All'interno della cartella relativa al corso, troverai una divisione tra slides fornite dal professore e appunti presi dagli studenti a lezione.
+![](logo.png)
